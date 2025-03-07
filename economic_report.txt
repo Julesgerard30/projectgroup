@@ -1,0 +1,39 @@
+📜 ECONOMIC SIMULATION REPORT
+=================================
+
+🔄 Cycle 1:
+🌍 Crisis: High unemployment rates, especially among the youth, reducing household incomes.
+🏛️ Policy Applied: Increase in public spending to stimulate economic growth.
+📆 Months Passed (Cumulative): 6
+📈 Outcome: The economy remains unstable but has not collapsed.
+
+📊 Economic Performance:
+   - Rich → Income: -1.18%, Expenses: 2.61%
+   - Middle Class → Income: 1.35%, Expenses: -3.78%
+   - Poor → Income: 5.41%, Expenses: 0.44%
+
+📢 SUGGESTIONS & IMPROVEMENTS:
+- Public spending increased incomes but also raised expenses. A combination with **Austerity Measures** may have controlled inflation better.
+
+🔄 Cycle 2:
+🌍 Crisis: High unemployment rates, especially among the youth, reducing household incomes.
+🏛️ Policy Applied: Changes in labor laws to encourage hiring and reduce unemployment.
+📆 Months Passed (Cumulative): 12
+📈 Outcome: The economy remains unstable but has not collapsed.
+
+📊 Economic Performance:
+   - Rich → Income: 0.05%, Expenses: -4.97%
+   - Middle Class → Income: -0.53%, Expenses: -0.16%
+   - Poor → Income: 1.54%, Expenses: -6.13%
+
+📢 SUGGESTIONS & IMPROVEMENTS:
+- Labor reforms improved employment but had little impact on inflation. **Targeted subsidies** could have balanced economic growth.
+
+📢 FINAL ECONOMIC INSIGHTS:
+- The simulation lasted a total of 12 months.
+- **Alternative Strategies That Could Have Been Used:**
+- In cases of **high unemployment**, **Economic Stimulus** or **Labor Market Reforms** would have been more effective than Austerity Measures.
+- If facing **rising housing prices**, **Housing Subsidies** would have reduced the burden on lower and middle-income groups.
+- **Doing nothing** was the worst option in most cases, as crises worsened without intervention.
+- When inflation surged, a mix of **Austerity Measures** and **targeted subsidies** would have worked better than only reducing spending.
+- Policies should have been **adapted based on economic trends**, rather than applying the same solution to every crisis.
